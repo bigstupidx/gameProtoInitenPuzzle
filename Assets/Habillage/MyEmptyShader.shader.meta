@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 087ed553e5616684f9fdaca526c918ed
+timeCreated: 1495109118
+licenseType: Pro
+ShaderImporter:
+  defaultTextures:
+  - _herbe: {fileID: 2800000, guid: 4687cb098f3a8c54bb70d56d4d778d98, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
